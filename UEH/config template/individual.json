@@ -1,0 +1,14 @@
+{
+  "department": "KHOA QUẢN TRỊ",
+  "title": "TIỂU LUẬN",
+  "topic-title": "Phân tích tài chính cá nhân",
+  "city": "TP. Hồ Chí Minh",
+  "date": "tháng 01 năm 2026",
+  "cover_info": [
+    { "key": "Môn học", "value": "Tài chính tiền tệ" },
+    { "key": "Giảng viên", "value": "ThS. Phạm Văn B" },
+    { "key": "Sinh viên", "value": "Nguyễn Văn A" },
+    { "key": "MSSV", "value": "123456" },
+    { "key": "Lớp", "value": "Tài chính" }
+  ]
+}
