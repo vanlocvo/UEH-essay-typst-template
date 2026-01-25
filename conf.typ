@@ -7,7 +7,7 @@
     numbering: "1",
     number-align: right
   )
-  #set text(font: "Times New Roman", size: 13pt)
+  #set text(font: "Times New Roman", size: 13pt, lang: "vi")
   #set heading(numbering: "1.1.1")
   #set par(justify: true)
 
