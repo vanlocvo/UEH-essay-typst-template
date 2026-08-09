@@ -10,10 +10,7 @@
   #set heading(numbering: "1.1.1")
   #show heading.where(level: 1): set text(size: 15pt)
   #show heading: set block(below: 1.5em, above: 2em)
-  #set par(
-    justify: true,
-    leading: 1.5em,
-  )
+
   #show figure: set block(breakable: true)
   #show figure.where(kind: table): set figure.caption(position: top)
 
@@ -26,6 +23,11 @@
 
   #outline(
     title: [Mục lục],
+  )
+
+  #set par(
+    justify: true,
+    leading: 1.5em,
   )
 
   #pagebreak()
